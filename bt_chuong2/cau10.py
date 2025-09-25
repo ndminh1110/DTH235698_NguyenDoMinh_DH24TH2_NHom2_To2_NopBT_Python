@@ -1,0 +1,7 @@
+x=float(input("Nhap x:"))
+y=float(input("Nhap y:"))
+print("x+1=",x+1)
+print("x/2=",x/2)
+print("x-2=",x-2)
+print("x+y=",x+y)
+print("x-(y+7)=",x-(y+7))
